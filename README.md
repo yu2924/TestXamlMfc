@@ -2,7 +2,7 @@
  
 <img src="media/screenshot.png" width="320px">
 
-WinRT XAML Islandsを使ってレガシーコードにXAMLコンテンツを統合するする実験。
+WinRT XAML Islandsを使ってレガシーコードにXAMLコンテンツを統合する実験。
 
 ## NuGetパッケージ
 
